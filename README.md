@@ -2,12 +2,20 @@
 
 A conversational banking chatbot built using **Amazon Lex V2** and **AWS Lambda**, designed to handle basic user interactions like checking account balances and transferring funds.
 
+## 🛠 Technologies Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Lex-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lex">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+
 This project showcases:
 - Intent recognition
 - Slot filling
 - Context carryover between intents
 - Lambda integration for fulfillment
-- Cloud-based deployment automation using AWS CloudFormation
 
 ---
 
